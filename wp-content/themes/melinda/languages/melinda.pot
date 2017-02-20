@@ -1,0 +1,2893 @@
+# Copyright (C) 2016 TVDA Themes
+# This file is distributed under the ThemeForest Standard License.
+msgid ""
+msgstr ""
+"Project-Id-Version: Melinda 1.0.3\n"
+"Report-Msgid-Bugs-To: http://themes.tvda.eu\n"
+"POT-Creation-Date: 2016-08-05 13:00:32+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:14
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:15
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: comments.php:26
+msgctxt "comments title"
+msgid "One thought"
+msgid_plural "%1$s thoughts"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:33 comments.php:49
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:36 comments.php:52
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:37 comments.php:53
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:72
+msgid "Your comment"
+msgstr ""
+
+#: content-none.php:16
+msgid "Ready to publish your first post?"
+msgstr ""
+
+#: content-none.php:17
+msgid "<a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:21 content-none.php:28
+msgid "No Result"
+msgstr ""
+
+#: content-none.php:22
+msgid "Sorry, but nothing matched your search terms."
+msgstr ""
+
+#: content-none.php:23
+msgid "Please try again with some different keywords."
+msgstr ""
+
+#: content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for."
+msgstr ""
+
+#: content-none.php:30
+msgid "Perhaps searching can help."
+msgstr ""
+
+#: content-search.php:37
+msgid "Post"
+msgstr ""
+
+#: content-search.php:40
+msgid "Page"
+msgstr ""
+
+#: content-search.php:46
+msgid "Project"
+msgstr ""
+
+#: functions.php:54 plugins/redux-framework/sections/metaboxes/menus.php:9
+msgid "Top header menu"
+msgstr ""
+
+#: functions.php:55 plugins/redux-framework/sections/metaboxes/menus.php:18
+msgid "Main menu"
+msgstr ""
+
+#: functions.php:56 plugins/redux-framework/sections/metaboxes/menus.php:27
+msgid "Additional header menu"
+msgstr ""
+
+#: functions.php:57 plugins/redux-framework/sections/metaboxes/menus.php:36
+msgid "Popup/Mobile menu"
+msgstr ""
+
+#: functions.php:58 plugins/redux-framework/sections/metaboxes/menus.php:45
+msgid "Bottom footer menu"
+msgstr ""
+
+#: functions.php:109
+msgid "Square Medium With Crop"
+msgstr ""
+
+#: functions.php:110
+msgid "Square Large With Crop"
+msgstr ""
+
+#: functions.php:111
+msgid "Rectangle Medium With Crop"
+msgstr ""
+
+#: functions.php:112
+msgid "Rectangle Large With Crop"
+msgstr ""
+
+#: functions.php:113
+msgid "Product Thumbnails"
+msgstr ""
+
+#: functions.php:114
+msgid "Catalog Images"
+msgstr ""
+
+#: functions.php:115
+msgid "Single Product Image"
+msgstr ""
+
+#: functions.php:158
+msgid "Thumbnail"
+msgstr ""
+
+#: functions.php:159 plugins/redux-framework/sections/projects.php:111
+msgid "Medium"
+msgstr ""
+
+#: functions.php:160 plugins/redux-framework/sections/projects.php:112
+msgid "Large"
+msgstr ""
+
+#: functions.php:161
+msgid "Full Size"
+msgstr ""
+
+#: functions.php:199
+msgid "Sidebar left"
+msgstr ""
+
+#: functions.php:201
+msgid "Widgets displayed at left side of content."
+msgstr ""
+
+#: functions.php:208
+msgid "Sidebar right"
+msgstr ""
+
+#: functions.php:210
+msgid "Widgets displayed at right side of content."
+msgstr ""
+
+#: functions.php:217
+msgid "Footer #1 column"
+msgstr ""
+
+#: functions.php:219 functions.php:228 functions.php:237 functions.php:246
+#: functions.php:255 functions.php:264
+msgid "Widgets displayed at footer."
+msgstr ""
+
+#: functions.php:226
+msgid "Footer #2 column"
+msgstr ""
+
+#: functions.php:235
+msgid "Footer #3 column"
+msgstr ""
+
+#: functions.php:244
+msgid "Footer #4 column"
+msgstr ""
+
+#: functions.php:253
+msgid "Footer #5 column"
+msgstr ""
+
+#: functions.php:262
+msgid "Footer #6 column"
+msgstr ""
+
+#. Translators: If there are characters in your language that are not supported
+#. 		by chosen font(s), translate this to 'off'. Do not translate into your own
+#. language.
+
+#: functions.php:540
+msgctxt "Google fonts: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/bottom_footer.php:24 inc/header.php:54 inc/header.php:135
+#: inc/helpers/modules.php:151 inc/top_header.php:24
+msgid "Assign a menu at Appearance > Menus"
+msgstr ""
+
+#: inc/helpers/modules.php:78 plugins/login-with-ajax/default/widget_in.php:26
+msgid "View your shopping cart"
+msgstr ""
+
+#: inc/helpers/modules.php:196
+msgid "Share this product"
+msgstr ""
+
+#: inc/helpers/modules.php:198
+msgid "Share this project"
+msgstr ""
+
+#: inc/helpers/modules.php:200
+msgid "Share this post"
+msgstr ""
+
+#: inc/helpers/modules.php:202
+msgid "Share this page"
+msgstr ""
+
+#: inc/helpers/modules.php:215 inc/helpers/modules.php:260
+#: inc/helpers/modules.php:261
+msgid "Facebook"
+msgstr ""
+
+#: inc/helpers/modules.php:220 inc/helpers/modules.php:265
+#: inc/helpers/modules.php:266
+msgid "Twitter"
+msgstr ""
+
+#: inc/helpers/modules.php:225 inc/helpers/modules.php:275
+#: inc/helpers/modules.php:276
+msgid "Pinterest"
+msgstr ""
+
+#: inc/helpers/modules.php:230
+msgid "Google+"
+msgstr ""
+
+#: inc/helpers/modules.php:235
+msgid "Email"
+msgstr ""
+
+#: inc/helpers/modules.php:270 inc/helpers/modules.php:271
+msgid "Google Plus"
+msgstr ""
+
+#: inc/helpers/template-tags.php:344
+msgid "Pingback:"
+msgstr ""
+
+#: inc/helpers/template-tags.php:344 inc/helpers/template-tags.php:366
+msgid "Edit"
+msgstr ""
+
+#: inc/helpers/template-tags.php:363
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/helpers/template-tags.php:371
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/helpers/template-tags.php:386
+msgid "Leave reply"
+msgstr ""
+
+#: inc/helpers/template-tags.php:404
+msgid "Your name"
+msgstr ""
+
+#: inc/helpers/template-tags.php:410
+msgid "Your email"
+msgstr ""
+
+#: inc/helpers/template-tags.php:416
+msgid "Your website"
+msgstr ""
+
+#: inc/helpers/template-tags.php:434
+msgid "Older projects"
+msgstr ""
+
+#: inc/helpers/template-tags.php:436
+msgid "Older posts"
+msgstr ""
+
+#: inc/helpers/template-tags.php:443
+msgid "Newer projects"
+msgstr ""
+
+#: inc/helpers/template-tags.php:445
+msgid "Newer posts"
+msgstr ""
+
+#: inc/helpers/template-tags.php:461 inc/helpers/template-tags.php:471
+msgid "Previous reading"
+msgstr ""
+
+#: inc/helpers/template-tags.php:465 inc/helpers/template-tags.php:475
+msgid "Next reading"
+msgstr ""
+
+#: inc/helpers/template-tags.php:504
+msgctxt "post date"
+msgid "On %s"
+msgstr ""
+
+#: inc/helpers/template-tags.php:507
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: inc/title_wrapper.php:101
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/title_wrapper.php:105
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/title_wrapper.php:143 single-templates/part-top.php:22
+msgid "No comments"
+msgstr ""
+
+#: inc/title_wrapper.php:143 single-templates/part-top.php:22
+msgid "1 comment"
+msgstr ""
+
+#: inc/title_wrapper.php:143 single-templates/part-top.php:22
+msgid "% comments"
+msgstr ""
+
+#: inc/title_wrapper.php:179 post-templates/standard/part-meta.php:12
+#: single-templates/part-bottom.php:28
+msgid "Posted by"
+msgstr ""
+
+#: index.php:76 plugins/js_composer/templates/project_grid.php:40
+#: plugins/redux-framework/sections/search.php:13
+msgid "All"
+msgstr ""
+
+#: plugins/js_composer/index.php:145
+msgid "Project Grid"
+msgstr ""
+
+#: plugins/js_composer/index.php:150
+msgid "Posts, pages or custom posts in grid"
+msgstr ""
+
+#: plugins/js_composer/index.php:154
+msgid "List of IDs"
+msgstr ""
+
+#: plugins/js_composer/index.php:156 plugins/js_composer/index.php:177
+#: plugins/js_composer/index.php:200 plugins/js_composer/index.php:267
+#: plugins/js_composer/index.php:274 plugins/js_composer/index.php:289
+#: plugins/js_composer/index.php:440 plugins/js_composer/index.php:450
+msgid "Yes"
+msgstr ""
+
+#: plugins/js_composer/index.php:160
+msgid "Include only"
+msgstr ""
+
+#: plugins/js_composer/index.php:162
+msgid "Add projects by title."
+msgstr ""
+
+#: plugins/js_composer/index.php:175
+msgid "Show filter"
+msgstr ""
+
+#: plugins/js_composer/index.php:178
+msgid "Append filter to grid."
+msgstr ""
+
+#: plugins/js_composer/index.php:182
+msgid "Alignment"
+msgstr ""
+
+#: plugins/js_composer/index.php:185 plugins/js_composer/index.php:302
+#: plugins/js_composer/index.php:416
+#: plugins/redux-framework/sections/bottom_footer.php:137
+#: plugins/redux-framework/sections/bottom_footer.php:149
+#: plugins/redux-framework/sections/metaboxes/title_wrapper.php:110
+#: plugins/redux-framework/sections/products.php:214
+#: plugins/redux-framework/sections/projects.php:72
+#: plugins/redux-framework/sections/projects.php:132
+#: plugins/redux-framework/sections/search.php:108
+#: plugins/redux-framework/sections/single_post.php:199
+#: plugins/redux-framework/sections/title_wrapper.php:83
+msgid "Center"
+msgstr ""
+
+#: plugins/js_composer/index.php:186 plugins/js_composer/index.php:301
+#: plugins/js_composer/index.php:417
+#: plugins/redux-framework/sections/bottom_footer.php:136
+#: plugins/redux-framework/sections/bottom_footer.php:148
+#: plugins/redux-framework/sections/metaboxes/title_wrapper.php:109
+#: plugins/redux-framework/sections/products.php:213
+#: plugins/redux-framework/sections/projects.php:71
+#: plugins/redux-framework/sections/projects.php:131
+#: plugins/redux-framework/sections/search.php:107
+#: plugins/redux-framework/sections/single_post.php:198
+#: plugins/redux-framework/sections/title_wrapper.php:82
+msgid "Left"
+msgstr ""
+
+#: plugins/js_composer/index.php:187 plugins/js_composer/index.php:303
+#: plugins/js_composer/index.php:418
+#: plugins/redux-framework/sections/bottom_footer.php:138
+#: plugins/redux-framework/sections/bottom_footer.php:150
+#: plugins/redux-framework/sections/metaboxes/title_wrapper.php:111
+#: plugins/redux-framework/sections/products.php:215
+#: plugins/redux-framework/sections/projects.php:73
+#: plugins/redux-framework/sections/projects.php:133
+#: plugins/redux-framework/sections/search.php:109
+#: plugins/redux-framework/sections/single_post.php:200
+#: plugins/redux-framework/sections/title_wrapper.php:84
+msgid "Right"
+msgstr ""
+
+#: plugins/js_composer/index.php:194
+msgid "Select filter alignment."
+msgstr ""
+
+#: plugins/js_composer/index.php:198
+msgid "Light text for filter"
+msgstr ""
+
+#: plugins/js_composer/index.php:204
+msgid "Narrow data source"
+msgstr ""
+
+#: plugins/js_composer/index.php:216
+msgid "Enter categories, tags or custom taxonomies."
+msgstr ""
+
+#: plugins/js_composer/index.php:224
+msgid "Total items"
+msgstr ""
+
+#: plugins/js_composer/index.php:227
+msgid "Set max limit for items in grid or enter -1 to display all."
+msgstr ""
+
+#: plugins/js_composer/index.php:235
+msgid "Grid columns"
+msgstr ""
+
+#: plugins/js_composer/index.php:244
+msgid "Select number of single grid columns."
+msgstr ""
+
+#: plugins/js_composer/index.php:249
+msgid "Gap"
+msgstr ""
+
+#: plugins/js_composer/index.php:260
+msgid "Select gap between grid columns."
+msgstr ""
+
+#: plugins/js_composer/index.php:265
+msgid "Use expanded grid columns on big screens"
+msgstr ""
+
+#: plugins/js_composer/index.php:268
+msgid "2 to 3, 3 to 4, 4 to 6 columns on big screes."
+msgstr ""
+
+#: plugins/js_composer/index.php:272
+msgid "Use double height and double width view"
+msgstr ""
+
+#: plugins/js_composer/index.php:278
+#: plugins/redux-framework/sections/projects.php:100
+msgid "Image size"
+msgstr ""
+
+#: plugins/js_composer/index.php:287
+msgid "Large font size"
+msgstr ""
+
+#: plugins/js_composer/index.php:293
+#: plugins/redux-framework/sections/projects.php:120
+msgid "Color to overlay image on hover"
+msgstr ""
+
+#: plugins/js_composer/index.php:298
+#: plugins/redux-framework/sections/projects.php:129
+msgid "Title align"
+msgstr ""
+
+#: plugins/js_composer/index.php:309
+#: plugins/redux-framework/sections/projects.php:141
+msgid "Animation on hover"
+msgstr ""
+
+#: plugins/js_composer/index.php:329 plugins/js_composer/index.php:505
+msgid "Extra class name"
+msgstr ""
+
+#: plugins/js_composer/index.php:331 plugins/js_composer/index.php:507
+msgid "Style particular content element differently - add a class name and refer to it in custom CSS."
+msgstr ""
+
+#: plugins/js_composer/index.php:335 plugins/js_composer/index.php:511
+msgid "CSS box"
+msgstr ""
+
+#: plugins/js_composer/index.php:337 plugins/js_composer/index.php:513
+msgid "Design Options"
+msgstr ""
+
+#: plugins/js_composer/index.php:343
+msgid "Team Member"
+msgstr ""
+
+#: plugins/js_composer/index.php:347
+msgid "Display a team member with effects, description and social icons"
+msgstr ""
+
+#: plugins/js_composer/index.php:351
+msgid "Name"
+msgstr ""
+
+#: plugins/js_composer/index.php:354
+msgid "Type your team member name."
+msgstr ""
+
+#: plugins/js_composer/index.php:358
+msgid "Job Title"
+msgstr ""
+
+#: plugins/js_composer/index.php:360
+msgid "Type your team member job title, e.g. Manager."
+msgstr ""
+
+#: plugins/js_composer/index.php:364
+msgid "Photo"
+msgstr ""
+
+#: plugins/js_composer/index.php:367
+msgid "Upload or select a photo from media gallery."
+msgstr ""
+
+#: plugins/js_composer/index.php:371
+msgid "Photo size"
+msgstr ""
+
+#: plugins/js_composer/index.php:381
+#: plugins/redux-framework/sections/metaboxes/title_wrapper.php:78
+#: plugins/redux-framework/sections/posts.php:95
+msgid "Description"
+msgstr ""
+
+#: plugins/js_composer/index.php:387
+msgid "Text Position"
+msgstr ""
+
+#: plugins/js_composer/index.php:390
+msgid "Text and social links after photo"
+msgstr ""
+
+#: plugins/js_composer/index.php:391
+msgid "Text and social links on second slide (on hover)"
+msgstr ""
+
+#: plugins/js_composer/index.php:392
+msgid "Text on first slide, social links on second (on hover)"
+msgstr ""
+
+#: plugins/js_composer/index.php:398
+msgid "Text Vertical Alignment"
+msgstr ""
+
+#: plugins/js_composer/index.php:401
+msgid "Top"
+msgstr ""
+
+#: plugins/js_composer/index.php:402
+msgid "Middle"
+msgstr ""
+
+#: plugins/js_composer/index.php:403
+msgid "Bottom"
+msgstr ""
+
+#: plugins/js_composer/index.php:413
+msgid "Text Alignment"
+msgstr ""
+
+#: plugins/js_composer/index.php:424
+msgid "Color scheme"
+msgstr ""
+
+#: plugins/js_composer/index.php:427
+msgid "Light"
+msgstr ""
+
+#: plugins/js_composer/index.php:428
+msgid "Dark"
+msgstr ""
+
+#: plugins/js_composer/index.php:438
+#: plugins/redux-framework/sections/header.php:40
+#: plugins/redux-framework/sections/layout.php:14
+#: plugins/redux-framework/sections/metaboxes/header.php:48
+#: plugins/redux-framework/sections/metaboxes/layout.php:21
+msgid "Boxed"
+msgstr ""
+
+#: plugins/js_composer/index.php:448
+msgid "Scale photo on hover"
+msgstr ""
+
+#: plugins/js_composer/index.php:458
+msgid "Filter for photo on hover"
+msgstr ""
+
+#: plugins/js_composer/index.php:473
+msgid "Overlay"
+msgstr ""
+
+#: plugins/js_composer/index.php:476
+msgid "Disable"
+msgstr ""
+
+#: plugins/js_composer/index.php:477
+msgid "First Slide"
+msgstr ""
+
+#: plugins/js_composer/index.php:478
+msgid "Second Slide (on hover)"
+msgstr ""
+
+#: plugins/js_composer/index.php:479
+msgid "Both Slides"
+msgstr ""
+
+#: plugins/js_composer/index.php:480
+msgid "Gradient On First Slide"
+msgstr ""
+
+#: plugins/js_composer/index.php:481
+msgid "Gradient On Second Slide (on hover)"
+msgstr ""
+
+#: plugins/js_composer/index.php:482
+msgid "Gradient On Both Slides"
+msgstr ""
+
+#: plugins/js_composer/index.php:492
+msgid "Overlay Color"
+msgstr ""
+
+#: plugins/js_composer/index.php:522
+msgid "Use brand colors"
+msgstr ""
+
+#: plugins/js_composer/index.php:524 plugins/js_composer/index.php:531
+#: plugins/redux-framework/sections/bottom_footer.php:89
+#: plugins/redux-framework/sections/header.php:218
+#: plugins/redux-framework/sections/social.php:14
+#: plugins/redux-framework/sections/top_header.php:121
+msgid "Social links"
+msgstr ""
+
+#: plugins/login-with-ajax/default/widget_in.php:23
+msgid "My Account"
+msgstr ""
+
+#: plugins/login-with-ajax/default/widget_in.php:26
+msgid "Cart"
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/header.php:176
+#: plugins/redux-framework/sections/metaboxes/top_header.php:35
+msgid "Wishlist"
+msgstr ""
+
+#: plugins/login-with-ajax/default/widget_in.php:59
+msgid "Dashboard"
+msgstr ""
+
+#: plugins/redux-framework/config.php:34 plugins/redux-framework/config.php:35
+#: plugins/redux-framework/extensions-config.php:31
+#: plugins/redux-framework/extensions-config.php:42
+#: plugins/redux-framework/extensions-config.php:55
+#: plugins/redux-framework/extensions-config.php:69
+msgid "Theme options"
+msgstr ""
+
+#: plugins/redux-framework/sections/bottom_footer.php:4
+#: plugins/redux-framework/sections/metaboxes/bottom_footer.php:3
+msgid "Bottom footer"
+msgstr ""
+
+#: plugins/redux-framework/sections/bottom_footer.php:10
+msgid "Bottom footer settings"
+msgstr ""
+
+#: plugins/redux-framework/sections/bottom_footer.php:16
+#: plugins/redux-framework/sections/footer.php:16
+#: plugins/redux-framework/sections/metaboxes/bottom_footer.php:9
+#: plugins/redux-framework/sections/metaboxes/footer.php:9
+#: plugins/redux-framework/sections/metaboxes/title_wrapper.php:9
+#: plugins/redux-framework/sections/metaboxes/top_header.php:9
+#: plugins/redux-framework/sections/posts.php:193
+#: plugins/redux-framework/sections/products.php:122
+#: plugins/redux-framework/sections/products.php:185
+#: plugins/redux-framework/sections/title_wrapper.php:16
+#: plugins/redux-framework/sections/top_header.php:16
+msgid "Enable this layout part?"
+msgstr ""
+
+#: plugins/redux-framework/sections/bottom_footer.php:17
+#: plugins/redux-framework/sections/footer.php:17
+#: plugins/redux-framework/sections/metaboxes/bottom_footer.php:10
+#: plugins/redux-framework/sections/metaboxes/footer.php:10
+#: plugins/redux-framework/sections/metaboxes/title_wrapper.php:10
+#: plugins/redux-framework/sections/metaboxes/top_header.php:10
+#: plugins/redux-framework/sections/posts.php:194
+#: plugins/redux-framework/sections/products.php:123
+#: plugins/redux-framework/sections/products.php:186
+#: plugins/redux-framework/sections/title_wrapper.php:17
+#: plugins/redux-framework/sections/top_header.php:17
+msgid "If on, this layout part will be displayed."
+msgstr ""
+
+#: plugins/redux-framework/sections/bottom_footer.php:24
+#: plugins/redux-framework/sections/top_header.php:24
+msgid "Left area columns"
+msgstr ""
+
+#: plugins/redux-framework/sections/bottom_footer.php:25
+msgid "Define columns number of bottom footer left area."
+msgstr ""
+
+#: plugins/redux-framework/sections/bottom_footer.php:35
+#: plugins/redux-framework/sections/top_header.php:35
+msgid "Right area columns"
+msgstr ""
+
+#: plugins/redux-framework/sections/bottom_footer.php:36
+msgid "Define columns number of bottom footer right area."
+msgstr ""
+
+#: plugins/redux-framework/sections/bottom_footer.php:46
+#: plugins/redux-framework/sections/top_header.php:46
+msgid "Menu"
+msgstr ""
+
+#: plugins/redux-framework/sections/bottom_footer.php:47
+#: plugins/redux-framework/sections/top_header.php:47
+msgid "If on, menu will be displayed."
+msgstr ""
+
+#: plugins/redux-framework/sections/bottom_footer.php:54
+#: plugins/redux-framework/sections/top_header.php:54
+msgid "Menu at left area"
+msgstr ""
+
+#: plugins/redux-framework/sections/bottom_footer.php:55
+msgid "If on, menu will display at left area of bottom footer."
+msgstr ""
+
+#: plugins/redux-framework/sections/bottom_footer.php:63
+#: plugins/redux-framework/sections/header.php:160
+#: plugins/redux-framework/sections/metaboxes/header.php:141
+#: plugins/redux-framework/sections/metaboxes/top_header.php:74
+#: plugins/redux-framework/sections/top_header.php:95
+msgid "Text module"
+msgstr ""
+
+#: plugins/redux-framework/sections/bottom_footer.php:64
+#: plugins/redux-framework/sections/header.php:161
+#: plugins/redux-framework/sections/metaboxes/header.php:142
+#: plugins/redux-framework/sections/metaboxes/top_header.php:75
+#: plugins/redux-framework/sections/top_header.php:96
+msgid "If on, a rich text module will be displayed."
+msgstr ""
+
+#: plugins/redux-framework/sections/bottom_footer.php:71
+#: plugins/redux-framework/sections/header.php:168
+#: plugins/redux-framework/sections/metaboxes/header.php:154
+#: plugins/redux-framework/sections/metaboxes/top_header.php:87
+#: plugins/redux-framework/sections/top_header.php:103
+msgid "Text module content"
+msgstr ""
+
+#: plugins/redux-framework/sections/bottom_footer.php:72
+msgid "Place any text to be displayed in bottom footer."
+msgstr ""
+
+#: plugins/redux-framework/sections/bottom_footer.php:80
+#: plugins/redux-framework/sections/header.php:209
+#: plugins/redux-framework/sections/metaboxes/header.php:215
+#: plugins/redux-framework/sections/metaboxes/top_header.php:96
+#: plugins/redux-framework/sections/top_header.php:112
+msgid "Social module"
+msgstr ""
+
+#: plugins/redux-framework/sections/bottom_footer.php:81
+#: plugins/redux-framework/sections/header.php:210
+#: plugins/redux-framework/sections/metaboxes/header.php:216
+#: plugins/redux-framework/sections/metaboxes/top_header.php:97
+#: plugins/redux-framework/sections/top_header.php:113
+msgid "If on, a social icon module will be displayed."
+msgstr ""
+
+#: plugins/redux-framework/sections/bottom_footer.php:90
+#: plugins/redux-framework/sections/header.php:219
+#: plugins/redux-framework/sections/top_header.php:122
+msgid "Enable social links to be displayed."
+msgstr ""
+
+#: plugins/redux-framework/sections/bottom_footer.php:98
+#: plugins/redux-framework/sections/header.php:227
+#: plugins/redux-framework/sections/top_header.php:130
+msgid "WPML modules"
+msgstr ""
+
+#: plugins/redux-framework/sections/bottom_footer.php:105
+#: plugins/redux-framework/sections/header.php:234
+#: plugins/redux-framework/sections/top_header.php:137
+msgid "WPML language flags"
+msgstr ""
+
+#: plugins/redux-framework/sections/bottom_footer.php:106
+#: plugins/redux-framework/sections/header.php:235
+#: plugins/redux-framework/sections/top_header.php:138
+msgid "If on, the avaliable languages flags will be displayed. Only works with WPML activated."
+msgstr ""
+
+#: plugins/redux-framework/sections/bottom_footer.php:113
+#: plugins/redux-framework/sections/header.php:242
+#: plugins/redux-framework/sections/top_header.php:145
+msgid "WPML shop currencies"
+msgstr ""
+
+#: plugins/redux-framework/sections/bottom_footer.php:114
+#: plugins/redux-framework/sections/header.php:243
+#: plugins/redux-framework/sections/top_header.php:146
+msgid "If on, the avaliable currencies flags will be displayed. Only works with WPML + WooCommerce Multilingual activated."
+msgstr ""
+
+#: plugins/redux-framework/sections/bottom_footer.php:128
+msgid "Bottom footer styles"
+msgstr ""
+
+#: plugins/redux-framework/sections/bottom_footer.php:134
+msgid "First area align"
+msgstr ""
+
+#: plugins/redux-framework/sections/bottom_footer.php:146
+msgid "Second area align"
+msgstr ""
+
+#: plugins/redux-framework/sections/bottom_footer.php:158
+msgid "Bottom footer border"
+msgstr ""
+
+#: plugins/redux-framework/sections/bottom_footer.php:159
+msgid "Select a custom border to be applied in the bottom footer."
+msgstr ""
+
+#: plugins/redux-framework/sections/bottom_footer.php:169
+msgid "Bottom footer padding"
+msgstr ""
+
+#: plugins/redux-framework/sections/bottom_footer.php:178
+msgid "Bottom footer background"
+msgstr ""
+
+#: plugins/redux-framework/sections/bottom_footer.php:179
+#: plugins/redux-framework/sections/footer.php:126
+#: plugins/redux-framework/sections/metaboxes/title_wrapper.php:190
+#: plugins/redux-framework/sections/metaboxes/top_header.php:122
+#: plugins/redux-framework/sections/title_wrapper.php:163
+#: plugins/redux-framework/sections/top_header.php:187
+msgid "Background image will be replaced on background pattern if you chose pattern in the next option."
+msgstr ""
+
+#: plugins/redux-framework/sections/bottom_footer.php:185
+msgid "Bottom footer background pattern"
+msgstr ""
+
+#: plugins/redux-framework/sections/bottom_footer.php:186
+#: plugins/redux-framework/sections/footer.php:133
+#: plugins/redux-framework/sections/general.php:154
+msgid "Select a predefined background pattern. It will replace background image in previous option."
+msgstr ""
+
+#: plugins/redux-framework/sections/bottom_footer.php:194
+msgid "Bottom footer typography"
+msgstr ""
+
+#: plugins/redux-framework/sections/bottom_footer.php:207
+msgid "Bottom footer typography: custom font family"
+msgstr ""
+
+#: plugins/redux-framework/sections/bottom_footer.php:208
+#: plugins/redux-framework/sections/footer.php:155
+#: plugins/redux-framework/sections/footer.php:178
+#: plugins/redux-framework/sections/general.php:113
+#: plugins/redux-framework/sections/general.php:137
+#: plugins/redux-framework/sections/header.php:353
+#: plugins/redux-framework/sections/metaboxes/header.php:309
+#: plugins/redux-framework/sections/metaboxes/title_wrapper.php:133
+#: plugins/redux-framework/sections/metaboxes/title_wrapper.php:156
+#: plugins/redux-framework/sections/metaboxes/title_wrapper.php:180
+#: plugins/redux-framework/sections/metaboxes/top_header.php:142
+#: plugins/redux-framework/sections/title_wrapper.php:106
+#: plugins/redux-framework/sections/title_wrapper.php:129
+#: plugins/redux-framework/sections/title_wrapper.php:153
+#: plugins/redux-framework/sections/top_header.php:207
+msgid "You can use here your Typekit fonts."
+msgstr ""
+
+#: plugins/redux-framework/sections/content.php:4
+#: plugins/redux-framework/sections/metaboxes/content.php:3
+msgid "Content"
+msgstr ""
+
+#: plugins/redux-framework/sections/content.php:10
+msgid "Content settings"
+msgstr ""
+
+#: plugins/redux-framework/sections/content.php:16
+#: plugins/redux-framework/sections/metaboxes/content.php:19
+msgid "Dynamic area before content"
+msgstr ""
+
+#: plugins/redux-framework/sections/content.php:17
+#: plugins/redux-framework/sections/metaboxes/content.php:20
+msgid "Select the page which content will be loaded and displayed before content."
+msgstr ""
+
+#: plugins/redux-framework/sections/content.php:25
+#: plugins/redux-framework/sections/metaboxes/content.php:28
+msgid "Dynamic area after content"
+msgstr ""
+
+#: plugins/redux-framework/sections/content.php:26
+#: plugins/redux-framework/sections/metaboxes/content.php:29
+#: plugins/redux-framework/sections/posts.php:162
+msgid "Select the page which content will be loaded and displayed after content."
+msgstr ""
+
+#: plugins/redux-framework/sections/content.php:35
+msgid "Content styles"
+msgstr ""
+
+#: plugins/redux-framework/sections/content.php:41
+msgid "Content border"
+msgstr ""
+
+#: plugins/redux-framework/sections/content.php:42
+msgid "Select a custom border to be applied in the content."
+msgstr ""
+
+#: plugins/redux-framework/sections/content.php:52
+#: plugins/redux-framework/sections/metaboxes/content.php:10
+#: plugins/redux-framework/sections/posts.php:171
+msgid "Content padding"
+msgstr ""
+
+#: plugins/redux-framework/sections/custom.php:4
+#: plugins/redux-framework/sections/metaboxes/custom.php:3
+msgid "Custom CSS/JS"
+msgstr ""
+
+#: plugins/redux-framework/sections/custom.php:11
+#: plugins/redux-framework/sections/metaboxes/custom.php:9
+msgid "CSS code"
+msgstr ""
+
+#: plugins/redux-framework/sections/custom.php:12
+msgid "Insert your custom CSS code here. It will be displayed globally in the website."
+msgstr ""
+
+#: plugins/redux-framework/sections/custom.php:20
+#: plugins/redux-framework/sections/metaboxes/custom.php:18
+msgid "JS code"
+msgstr ""
+
+#: plugins/redux-framework/sections/custom.php:21
+msgid "Insert your custom JS code here, e.g. Google Analytics code or whatever you want. It will be displayed globally in the website."
+msgstr ""
+
+#: plugins/redux-framework/sections/custom.php:29
+#: plugins/redux-framework/sections/metaboxes/custom.php:27
+msgid "Head link tags"
+msgstr ""
+
+#: plugins/redux-framework/sections/custom.php:30
+msgid "Insert your custom tags to be displayed in the head, e.g. Google Fonts link tags and others."
+msgstr ""
+
+#: plugins/redux-framework/sections/favicon.php:4
+msgid "Favicon settings"
+msgstr ""
+
+#: plugins/redux-framework/sections/favicon.php:5
+msgid "Configure the favicon in a lot of plataforms. Generate and download your package at http://realfavicongenerator.net/"
+msgstr ""
+
+#: plugins/redux-framework/sections/favicon.php:11
+msgid "Default favicons"
+msgstr ""
+
+#: plugins/redux-framework/sections/favicon.php:18
+msgid "Favicon 16x16"
+msgstr ""
+
+#: plugins/redux-framework/sections/favicon.php:19
+msgid "Upload favicon image in the following dimensions (16x16)"
+msgstr ""
+
+#: plugins/redux-framework/sections/favicon.php:26
+msgid "Favicon 32x32"
+msgstr ""
+
+#: plugins/redux-framework/sections/favicon.php:27
+msgid "Upload favicon image in the following dimensions (32x32)"
+msgstr ""
+
+#: plugins/redux-framework/sections/favicon.php:34
+msgid "Favicon 96x96"
+msgstr ""
+
+#: plugins/redux-framework/sections/favicon.php:35
+msgid "Upload favicon image in the following dimensions (96x96)"
+msgstr ""
+
+#: plugins/redux-framework/sections/favicon.php:42
+msgid "Favicon 160x160"
+msgstr ""
+
+#: plugins/redux-framework/sections/favicon.php:43
+msgid "Upload favicon image in the following dimensions (160x160)"
+msgstr ""
+
+#: plugins/redux-framework/sections/favicon.php:50
+msgid "Favicon 192x192"
+msgstr ""
+
+#: plugins/redux-framework/sections/favicon.php:51
+msgid "Upload favicon image in the following dimensions (192x192)"
+msgstr ""
+
+#: plugins/redux-framework/sections/favicon.php:65
+msgid "Apple favicons"
+msgstr ""
+
+#: plugins/redux-framework/sections/favicon.php:72
+msgid "Favicon 57x57"
+msgstr ""
+
+#: plugins/redux-framework/sections/favicon.php:73
+msgid "Upload favicon image in the following dimensions (57x57)"
+msgstr ""
+
+#: plugins/redux-framework/sections/favicon.php:80
+msgid "Favicon 114x114"
+msgstr ""
+
+#: plugins/redux-framework/sections/favicon.php:81
+msgid "Upload favicon image in the following dimensions (114x114)"
+msgstr ""
+
+#: plugins/redux-framework/sections/favicon.php:88
+msgid "Favicon 72x72"
+msgstr ""
+
+#: plugins/redux-framework/sections/favicon.php:89
+msgid "Upload favicon image in the following dimensions (72x72)"
+msgstr ""
+
+#: plugins/redux-framework/sections/favicon.php:96
+msgid "Favicon 144x144"
+msgstr ""
+
+#: plugins/redux-framework/sections/favicon.php:97
+msgid "Upload favicon image in the following dimensions (144x144)"
+msgstr ""
+
+#: plugins/redux-framework/sections/favicon.php:104
+msgid "Favicon 60x60"
+msgstr ""
+
+#: plugins/redux-framework/sections/favicon.php:105
+msgid "Upload favicon image in the following dimensions (60x60)"
+msgstr ""
+
+#: plugins/redux-framework/sections/favicon.php:112
+msgid "Favicon 120x120"
+msgstr ""
+
+#: plugins/redux-framework/sections/favicon.php:113
+msgid "Upload favicon image in the following dimensions (120x120)"
+msgstr ""
+
+#: plugins/redux-framework/sections/favicon.php:120
+msgid "Favicon 76x76"
+msgstr ""
+
+#: plugins/redux-framework/sections/favicon.php:121
+msgid "Upload favicon image in the following dimensions (76x76)"
+msgstr ""
+
+#: plugins/redux-framework/sections/favicon.php:128
+msgid "Favicon 152x152"
+msgstr ""
+
+#: plugins/redux-framework/sections/favicon.php:129
+msgid "Upload favicon image in the following dimensions (152x152)"
+msgstr ""
+
+#: plugins/redux-framework/sections/favicon.php:136
+msgid "Favicon 180x180"
+msgstr ""
+
+#: plugins/redux-framework/sections/favicon.php:137
+msgid "Upload favicon image in the following dimensions (180x180)"
+msgstr ""
+
+#: plugins/redux-framework/sections/favicon.php:151
+msgid "Windows Metro favicons"
+msgstr ""
+
+#: plugins/redux-framework/sections/favicon.php:158
+msgid "Custom tile background color"
+msgstr ""
+
+#: plugins/redux-framework/sections/favicon.php:159
+msgid "Pick a background color for the tile."
+msgstr ""
+
+#: plugins/redux-framework/sections/favicon.php:167
+msgid "Tile image 70x70"
+msgstr ""
+
+#: plugins/redux-framework/sections/favicon.php:168
+msgid "Upload favicon image in the following dimensions. Minimum image size: 70x70. Recommended: 128x128."
+msgstr ""
+
+#: plugins/redux-framework/sections/favicon.php:175
+msgid "Tile image 150x150"
+msgstr ""
+
+#: plugins/redux-framework/sections/favicon.php:176
+msgid "Upload favicon image in the following dimensions. Minimum image size: 150x150. Recommended: 270x270."
+msgstr ""
+
+#: plugins/redux-framework/sections/favicon.php:183
+msgid "Tile image 310x150"
+msgstr ""
+
+#: plugins/redux-framework/sections/favicon.php:184
+msgid "Upload favicon image in the following dimensions. Minimum image size: 310x150. Recommended: 558x270."
+msgstr ""
+
+#: plugins/redux-framework/sections/favicon.php:191
+msgid "Tile image 310x310"
+msgstr ""
+
+#: plugins/redux-framework/sections/favicon.php:192
+msgid "Upload favicon image in the following dimensions. Minimum image size: 310x310. Recommended: 558x558."
+msgstr ""
+
+#: plugins/redux-framework/sections/footer.php:4
+#: plugins/redux-framework/sections/metaboxes/footer.php:3
+msgid "Footer"
+msgstr ""
+
+#: plugins/redux-framework/sections/footer.php:10
+msgid "Footer settings"
+msgstr ""
+
+#: plugins/redux-framework/sections/footer.php:24
+#: plugins/redux-framework/sections/metaboxes/footer.php:22
+msgid "Fixed footer"
+msgstr ""
+
+#: plugins/redux-framework/sections/footer.php:25
+#: plugins/redux-framework/sections/metaboxes/footer.php:23
+msgid "If on, footer and bottom footer will be fixed at screen bottom on page scroll."
+msgstr ""
+
+#: plugins/redux-framework/sections/footer.php:32
+msgid "#1 column width"
+msgstr ""
+
+#: plugins/redux-framework/sections/footer.php:33
+#: plugins/redux-framework/sections/footer.php:44
+#: plugins/redux-framework/sections/footer.php:55
+#: plugins/redux-framework/sections/footer.php:66
+#: plugins/redux-framework/sections/footer.php:77
+#: plugins/redux-framework/sections/footer.php:88
+msgid "Define column width, max is 12 parts, set as 0 to disable this area."
+msgstr ""
+
+#: plugins/redux-framework/sections/footer.php:43
+msgid "#2 column width"
+msgstr ""
+
+#: plugins/redux-framework/sections/footer.php:54
+msgid "#3 column width"
+msgstr ""
+
+#: plugins/redux-framework/sections/footer.php:65
+msgid "#4 column width"
+msgstr ""
+
+#: plugins/redux-framework/sections/footer.php:76
+msgid "#5 column width"
+msgstr ""
+
+#: plugins/redux-framework/sections/footer.php:87
+msgid "#6 column width"
+msgstr ""
+
+#: plugins/redux-framework/sections/footer.php:99
+msgid "Footer styles"
+msgstr ""
+
+#: plugins/redux-framework/sections/footer.php:105
+msgid "Footer border"
+msgstr ""
+
+#: plugins/redux-framework/sections/footer.php:106
+msgid "Select a custom border to be applied in the footer."
+msgstr ""
+
+#: plugins/redux-framework/sections/footer.php:116
+msgid "Footer padding"
+msgstr ""
+
+#: plugins/redux-framework/sections/footer.php:125
+msgid "Footer background"
+msgstr ""
+
+#: plugins/redux-framework/sections/footer.php:132
+msgid "Footer background pattern"
+msgstr ""
+
+#: plugins/redux-framework/sections/footer.php:141
+msgid "Footer typography"
+msgstr ""
+
+#: plugins/redux-framework/sections/footer.php:154
+msgid "Footer typography: custom font family"
+msgstr ""
+
+#: plugins/redux-framework/sections/footer.php:164
+msgid "Footer widget title typography"
+msgstr ""
+
+#: plugins/redux-framework/sections/footer.php:177
+msgid "Footer widget title typography: custom font family"
+msgstr ""
+
+#: plugins/redux-framework/sections/general.php:4
+msgid "General"
+msgstr ""
+
+#: plugins/redux-framework/sections/general.php:10
+msgid "General settings"
+msgstr ""
+
+#: plugins/redux-framework/sections/general.php:11
+msgid "Configure easily the basic theme's settings."
+msgstr ""
+
+#: plugins/redux-framework/sections/general.php:17
+msgid "Comments in pages"
+msgstr ""
+
+#: plugins/redux-framework/sections/general.php:18
+msgid "If on, the comment form will be avaliable in all pages."
+msgstr ""
+
+#: plugins/redux-framework/sections/general.php:25
+msgid "Responsive layout"
+msgstr ""
+
+#: plugins/redux-framework/sections/general.php:26
+msgid "If on, the website will adapt in smaller devices like tablets or smartphones."
+msgstr ""
+
+#: plugins/redux-framework/sections/general.php:33
+msgid "Meta tags in head about wordpress version"
+msgstr ""
+
+#: plugins/redux-framework/sections/general.php:34
+msgid "If on, meta tags will be show in all pages."
+msgstr ""
+
+#: plugins/redux-framework/sections/general.php:41
+msgid "WLW manifest link in head"
+msgstr ""
+
+#: plugins/redux-framework/sections/general.php:42
+msgid "WLW manifest link is the resource file needed to enable tagging support for Windows Live Writer."
+msgstr ""
+
+#: plugins/redux-framework/sections/general.php:49
+msgid "RSD link in head"
+msgstr ""
+
+#: plugins/redux-framework/sections/general.php:50
+msgid "RSD link is used by blog clients, enable if you use blog clients for wordpress."
+msgstr ""
+
+#: plugins/redux-framework/sections/general.php:57
+msgid "Loader effect"
+msgstr ""
+
+#: plugins/redux-framework/sections/general.php:58
+msgid "If on, a loader will appear before loading the page."
+msgstr ""
+
+#: plugins/redux-framework/sections/general.php:65
+msgid "\"Go to top\" button"
+msgstr ""
+
+#: plugins/redux-framework/sections/general.php:66
+msgid "If on, \"Go to top\" button will be visible at bottom right corner of viewport/window."
+msgstr ""
+
+#: plugins/redux-framework/sections/general.php:73
+msgid "Typekit Kit ID"
+msgstr ""
+
+#: plugins/redux-framework/sections/general.php:74
+msgid "Define Kit ID, if you want use Typekit fonts."
+msgstr ""
+
+#: plugins/redux-framework/sections/general.php:83
+msgid "General styles"
+msgstr ""
+
+#: plugins/redux-framework/sections/general.php:89
+#: plugins/redux-framework/sections/metaboxes/layout.php:9
+msgid "Accent color"
+msgstr ""
+
+#: plugins/redux-framework/sections/general.php:90
+#: plugins/redux-framework/sections/metaboxes/layout.php:10
+msgid "Pick an accent color to overwrite the default from the theme. Usually used for links and buttons."
+msgstr ""
+
+#: plugins/redux-framework/sections/general.php:98
+msgid "Base font"
+msgstr ""
+
+#: plugins/redux-framework/sections/general.php:99
+msgid "Font used in the content in general, usually overwrite by local layout fonts, but used in paragraphs, lists and others."
+msgstr ""
+
+#: plugins/redux-framework/sections/general.php:112
+msgid "Base font: custom font family"
+msgstr ""
+
+#: plugins/redux-framework/sections/general.php:122
+msgid "Second font"
+msgstr ""
+
+#: plugins/redux-framework/sections/general.php:123
+msgid "For menus, inputs, buttons, titles and heading elements."
+msgstr ""
+
+#: plugins/redux-framework/sections/general.php:136
+msgid "Second font: custom font family"
+msgstr ""
+
+#: plugins/redux-framework/sections/general.php:146
+#: plugins/redux-framework/sections/metaboxes/layout.php:116
+msgid "Body background"
+msgstr ""
+
+#: plugins/redux-framework/sections/general.php:147
+#: plugins/redux-framework/sections/metaboxes/layout.php:117
+msgid "Body background with image, color and other options. Usually visible only when using boxed layout. Background image will be replaced on background pattern if you chose pattern in the next option."
+msgstr ""
+
+#: plugins/redux-framework/sections/general.php:153
+msgid "Body background pattern"
+msgstr ""
+
+#: plugins/redux-framework/sections/header.php:4
+#: plugins/redux-framework/sections/metaboxes/header.php:3
+msgid "Header"
+msgstr ""
+
+#: plugins/redux-framework/sections/header.php:10
+msgid "Header settings"
+msgstr ""
+
+#: plugins/redux-framework/sections/header.php:16
+#: plugins/redux-framework/sections/metaboxes/header.php:9
+msgid "Enable header?"
+msgstr ""
+
+#: plugins/redux-framework/sections/header.php:17
+#: plugins/redux-framework/sections/metaboxes/header.php:10
+msgid "If on, this layout part will be displayed in website."
+msgstr ""
+
+#: plugins/redux-framework/sections/header.php:24
+#: plugins/redux-framework/sections/metaboxes/header.php:22
+msgid "Fixed header"
+msgstr ""
+
+#: plugins/redux-framework/sections/header.php:25
+#: plugins/redux-framework/sections/metaboxes/header.php:23
+msgid "If on, the header will be fixed at screen top on page scroll."
+msgstr ""
+
+#: plugins/redux-framework/sections/header.php:32
+#: plugins/redux-framework/sections/metaboxes/header.php:35
+#: plugins/redux-framework/sections/products.php:148
+#: plugins/redux-framework/sections/single_post.php:113
+#: plugins/redux-framework/sections/single_product.php:154
+msgid "Negative height"
+msgstr ""
+
+#: plugins/redux-framework/sections/header.php:33
+#: plugins/redux-framework/sections/metaboxes/header.php:36
+#: plugins/redux-framework/sections/products.php:149
+#: plugins/redux-framework/sections/single_post.php:114
+#: plugins/redux-framework/sections/single_product.php:155
+msgid "If on, header and top header will not have height and background and title wrapper or content will be showed behind it."
+msgstr ""
+
+#: plugins/redux-framework/sections/header.php:47
+#: plugins/redux-framework/sections/metaboxes/header.php:60
+msgid "Header layout"
+msgstr ""
+
+#: plugins/redux-framework/sections/header.php:88
+msgid "Logo (dark)"
+msgstr ""
+
+#: plugins/redux-framework/sections/header.php:89
+msgid "Upload a dark version of logo used in light backgrounds in the header."
+msgstr ""
+
+#: plugins/redux-framework/sections/header.php:96
+msgid "Logo retina (dark)"
+msgstr ""
+
+#: plugins/redux-framework/sections/header.php:97
+#: plugins/redux-framework/sections/header.php:115
+msgid "Optional retina version displayed in devices with retina display (high resolution display)."
+msgstr ""
+
+#: plugins/redux-framework/sections/header.php:98
+#: plugins/redux-framework/sections/header.php:116
+msgid "The same logo image but with twice dimensions, e.g. your logo is 100x100, then your retina logo must be 200x200."
+msgstr ""
+
+#: plugins/redux-framework/sections/header.php:106
+msgid "Logo (light)"
+msgstr ""
+
+#: plugins/redux-framework/sections/header.php:107
+msgid "Upload a light version of logo used in dark backgrounds in the header."
+msgstr ""
+
+#: plugins/redux-framework/sections/header.php:114
+msgid "Logo retina (light)"
+msgstr ""
+
+#: plugins/redux-framework/sections/header.php:124
+#: plugins/redux-framework/sections/metaboxes/header.php:105
+#: plugins/redux-framework/sections/posts.php:128
+#: plugins/redux-framework/sections/products.php:161
+#: plugins/redux-framework/sections/single_post.php:126
+#: plugins/redux-framework/sections/single_product.php:167
+msgid "Color scheme for header"
+msgstr ""
+
+#: plugins/redux-framework/sections/header.php:126
+#: plugins/redux-framework/sections/metaboxes/header.php:107
+#: plugins/redux-framework/sections/posts.php:130
+#: plugins/redux-framework/sections/products.php:163
+#: plugins/redux-framework/sections/single_post.php:128
+#: plugins/redux-framework/sections/single_product.php:169
+msgid "Light text"
+msgstr ""
+
+#: plugins/redux-framework/sections/header.php:127
+#: plugins/redux-framework/sections/metaboxes/header.php:108
+#: plugins/redux-framework/sections/posts.php:131
+#: plugins/redux-framework/sections/products.php:164
+#: plugins/redux-framework/sections/single_post.php:129
+#: plugins/redux-framework/sections/single_product.php:170
+msgid "Dark text"
+msgstr ""
+
+#: plugins/redux-framework/sections/header.php:136
+#: plugins/redux-framework/sections/metaboxes/header.php:116
+msgid "Separator between menu and modules"
+msgstr ""
+
+#: plugins/redux-framework/sections/header.php:143
+#: plugins/redux-framework/sections/metaboxes/header.php:128
+msgid "Mobile menu"
+msgstr ""
+
+#: plugins/redux-framework/sections/header.php:144
+#: plugins/redux-framework/sections/metaboxes/header.php:129
+msgid "If on, a mobile menu link will be displayed on mobile devices (smaller than 768px) and main menu will be hided."
+msgstr ""
+
+#: plugins/redux-framework/sections/header.php:151
+msgid "Show menu like popup module?"
+msgstr ""
+
+#: plugins/redux-framework/sections/header.php:152
+msgid "Better for small menus."
+msgstr ""
+
+#: plugins/redux-framework/sections/header.php:169
+#: plugins/redux-framework/sections/metaboxes/header.php:155
+msgid "Place any text or shortcode to be displayed in header. Use &lt;i class=\"melinda-separator\"&gt;&lt;/i&gt; to add a separator in the text. Use &lt;i class=\"fa fa-home\"&gt;&lt;/i&gt; to display Font Awesome icons."
+msgstr ""
+
+#: plugins/redux-framework/sections/header.php:177
+#: plugins/redux-framework/sections/top_header.php:63
+msgid "Login With Ajax module"
+msgstr ""
+
+#: plugins/redux-framework/sections/header.php:178
+#: plugins/redux-framework/sections/metaboxes/header.php:164
+#: plugins/redux-framework/sections/metaboxes/top_header.php:23
+#: plugins/redux-framework/sections/top_header.php:64
+msgid "If on, a Login With Ajax module will be displayed. Requires Login With Ajax plugin activated."
+msgstr ""
+
+#: plugins/redux-framework/sections/header.php:185
+#: plugins/redux-framework/sections/top_header.php:71
+msgid "Wishlist module"
+msgstr ""
+
+#: plugins/redux-framework/sections/header.php:186
+#: plugins/redux-framework/sections/metaboxes/header.php:177
+#: plugins/redux-framework/sections/metaboxes/top_header.php:36
+#: plugins/redux-framework/sections/top_header.php:72
+msgid "If on, a wishlist link will be displayed. Requires YITH Woocommerce Wishlist plugin activated."
+msgstr ""
+
+#: plugins/redux-framework/sections/header.php:193
+#: plugins/redux-framework/sections/top_header.php:79
+msgid "Minicart"
+msgstr ""
+
+#: plugins/redux-framework/sections/header.php:194
+#: plugins/redux-framework/sections/metaboxes/header.php:190
+#: plugins/redux-framework/sections/metaboxes/top_header.php:49
+#: plugins/redux-framework/sections/top_header.php:80
+msgid "If on, a WooCommerce minicart will be displayed. Requires WooCommerce plugin activated."
+msgstr ""
+
+#: plugins/redux-framework/sections/header.php:201
+#: plugins/redux-framework/sections/top_header.php:87
+msgid "Search module"
+msgstr ""
+
+#: plugins/redux-framework/sections/header.php:202
+#: plugins/redux-framework/sections/metaboxes/header.php:203
+#: plugins/redux-framework/sections/metaboxes/top_header.php:62
+#: plugins/redux-framework/sections/top_header.php:88
+msgid "If on, a search module will be displayed."
+msgstr ""
+
+#: plugins/redux-framework/sections/header.php:257
+msgid "Header styles"
+msgstr ""
+
+#: plugins/redux-framework/sections/header.php:263
+#: plugins/redux-framework/sections/metaboxes/header.php:228
+msgid "Header border"
+msgstr ""
+
+#: plugins/redux-framework/sections/header.php:264
+#: plugins/redux-framework/sections/metaboxes/header.php:229
+msgid "Select a custom border to be applied in the header."
+msgstr ""
+
+#: plugins/redux-framework/sections/header.php:274
+msgid "Header border color"
+msgstr ""
+
+#: plugins/redux-framework/sections/header.php:275
+msgid "Select a custom border color to be applied in the header."
+msgstr ""
+
+#: plugins/redux-framework/sections/header.php:285
+#: plugins/redux-framework/sections/metaboxes/header.php:241
+msgid "Header padding"
+msgstr ""
+
+#: plugins/redux-framework/sections/header.php:295
+#: plugins/redux-framework/sections/metaboxes/header.php:251
+msgid "Logo padding"
+msgstr ""
+
+#: plugins/redux-framework/sections/header.php:296
+#: plugins/redux-framework/sections/metaboxes/header.php:252
+msgid "Select a custom padding to be applied in the logo."
+msgstr ""
+
+#: plugins/redux-framework/sections/header.php:306
+#: plugins/redux-framework/sections/metaboxes/header.php:262
+msgid "Menu padding"
+msgstr ""
+
+#: plugins/redux-framework/sections/header.php:307
+#: plugins/redux-framework/sections/metaboxes/header.php:263
+msgid "Select a custom padding to be applied in the menu."
+msgstr ""
+
+#: plugins/redux-framework/sections/header.php:317
+#: plugins/redux-framework/sections/metaboxes/header.php:273
+msgid "Modules padding"
+msgstr ""
+
+#: plugins/redux-framework/sections/header.php:318
+#: plugins/redux-framework/sections/metaboxes/header.php:274
+msgid "Select a custom padding to be applied in the modules."
+msgstr ""
+
+#: plugins/redux-framework/sections/header.php:328
+#: plugins/redux-framework/sections/metaboxes/header.php:284
+msgid "Additional menu padding"
+msgstr ""
+
+#: plugins/redux-framework/sections/header.php:329
+#: plugins/redux-framework/sections/metaboxes/header.php:285
+msgid "Select a custom padding to be applied in the additional menu."
+msgstr ""
+
+#: plugins/redux-framework/sections/header.php:338
+#: plugins/redux-framework/sections/metaboxes/header.php:294
+msgid "Header typography"
+msgstr ""
+
+#: plugins/redux-framework/sections/header.php:352
+#: plugins/redux-framework/sections/metaboxes/header.php:308
+msgid "Header typography: custom font family"
+msgstr ""
+
+#: plugins/redux-framework/sections/layout.php:4
+#: plugins/redux-framework/sections/metaboxes/layout.php:3
+msgid "Layout"
+msgstr ""
+
+#: plugins/redux-framework/sections/layout.php:10
+#: plugins/redux-framework/sections/metaboxes/layout.php:18
+msgid "Normal or boxed"
+msgstr ""
+
+#: plugins/redux-framework/sections/layout.php:11
+msgid "See that this configuration is valid to the whole website, but you can overwrite it locally in a page, for example."
+msgstr ""
+
+#: plugins/redux-framework/sections/layout.php:13
+#: plugins/redux-framework/sections/layout.php:73
+#: plugins/redux-framework/sections/layout.php:87
+#: plugins/redux-framework/sections/layout.php:101
+#: plugins/redux-framework/sections/metaboxes/layout.php:20
+#: plugins/redux-framework/sections/metaboxes/layout.php:81
+#: plugins/redux-framework/sections/metaboxes/layout.php:94
+#: plugins/redux-framework/sections/metaboxes/layout.php:107
+#: plugins/redux-framework/sections/posts.php:53
+#: plugins/redux-framework/sections/products.php:53
+#: plugins/redux-framework/sections/projects.php:60
+#: plugins/redux-framework/sections/search.php:66
+#: plugins/redux-framework/sections/single_product.php:54
+#: plugins/redux-framework/sections/single_project.php:53
+msgid "Normal"
+msgstr ""
+
+#: plugins/redux-framework/sections/layout.php:15
+#: plugins/redux-framework/sections/metaboxes/layout.php:22
+msgid "Boxed only lateral margins"
+msgstr ""
+
+#: plugins/redux-framework/sections/layout.php:16
+#: plugins/redux-framework/sections/metaboxes/layout.php:23
+#: plugins/redux-framework/sections/projects.php:147
+msgid "Bordered"
+msgstr ""
+
+#: plugins/redux-framework/sections/layout.php:25
+#: plugins/redux-framework/sections/metaboxes/layout.php:31
+msgid "Layout border"
+msgstr ""
+
+#: plugins/redux-framework/sections/layout.php:26
+#: plugins/redux-framework/sections/metaboxes/layout.php:32
+msgid "Select a custom border to be applied in the viewport/window."
+msgstr ""
+
+#: plugins/redux-framework/sections/layout.php:35
+#: plugins/redux-framework/sections/metaboxes/layout.php:40
+msgid "Sidebars"
+msgstr ""
+
+#: plugins/redux-framework/sections/layout.php:36
+msgid "See that this layout is valid to the whole website, but you can overwrite it locally in a page, for example."
+msgstr ""
+
+#: plugins/redux-framework/sections/layout.php:69
+#: plugins/redux-framework/sections/metaboxes/layout.php:77
+msgid "Header container type"
+msgstr ""
+
+#: plugins/redux-framework/sections/layout.php:70
+#: plugins/redux-framework/sections/layout.php:84
+#: plugins/redux-framework/sections/layout.php:98
+#: plugins/redux-framework/sections/metaboxes/layout.php:78
+#: plugins/redux-framework/sections/metaboxes/layout.php:91
+#: plugins/redux-framework/sections/metaboxes/layout.php:104
+#: plugins/redux-framework/sections/posts.php:50
+#: plugins/redux-framework/sections/products.php:50
+#: plugins/redux-framework/sections/projects.php:57
+#: plugins/redux-framework/sections/search.php:63
+#: plugins/redux-framework/sections/single_product.php:51
+#: plugins/redux-framework/sections/single_project.php:50
+msgid "Define container configuration to be used, it can be normal, expanded or compact."
+msgstr ""
+
+#: plugins/redux-framework/sections/layout.php:72
+#: plugins/redux-framework/sections/layout.php:86
+#: plugins/redux-framework/sections/layout.php:100
+#: plugins/redux-framework/sections/metaboxes/layout.php:80
+#: plugins/redux-framework/sections/metaboxes/layout.php:93
+#: plugins/redux-framework/sections/metaboxes/layout.php:106
+#: plugins/redux-framework/sections/posts.php:52
+#: plugins/redux-framework/sections/products.php:52
+#: plugins/redux-framework/sections/projects.php:59
+#: plugins/redux-framework/sections/search.php:65
+#: plugins/redux-framework/sections/single_product.php:53
+#: plugins/redux-framework/sections/single_project.php:52
+msgid "Expanded"
+msgstr ""
+
+#: plugins/redux-framework/sections/layout.php:74
+#: plugins/redux-framework/sections/layout.php:88
+#: plugins/redux-framework/sections/layout.php:102
+#: plugins/redux-framework/sections/metaboxes/layout.php:82
+#: plugins/redux-framework/sections/metaboxes/layout.php:95
+#: plugins/redux-framework/sections/metaboxes/layout.php:108
+#: plugins/redux-framework/sections/posts.php:54
+#: plugins/redux-framework/sections/products.php:54
+#: plugins/redux-framework/sections/projects.php:61
+#: plugins/redux-framework/sections/search.php:67
+#: plugins/redux-framework/sections/single_product.php:55
+#: plugins/redux-framework/sections/single_project.php:54
+msgid "Compact"
+msgstr ""
+
+#: plugins/redux-framework/sections/layout.php:83
+#: plugins/redux-framework/sections/metaboxes/layout.php:90
+#: plugins/redux-framework/sections/posts.php:49
+#: plugins/redux-framework/sections/products.php:49
+#: plugins/redux-framework/sections/projects.php:56
+#: plugins/redux-framework/sections/search.php:62
+#: plugins/redux-framework/sections/single_product.php:50
+#: plugins/redux-framework/sections/single_project.php:49
+msgid "Content container type"
+msgstr ""
+
+#: plugins/redux-framework/sections/layout.php:97
+#: plugins/redux-framework/sections/metaboxes/layout.php:103
+msgid "Footer container type"
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/bottom_footer.php:4
+msgid "Change the bottom footer section configuration."
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/bottom_footer.php:12
+#: plugins/redux-framework/sections/metaboxes/footer.php:12
+#: plugins/redux-framework/sections/metaboxes/footer.php:25
+#: plugins/redux-framework/sections/metaboxes/header.php:12
+#: plugins/redux-framework/sections/metaboxes/header.php:25
+#: plugins/redux-framework/sections/metaboxes/header.php:38
+#: plugins/redux-framework/sections/metaboxes/header.php:50
+#: plugins/redux-framework/sections/metaboxes/header.php:118
+#: plugins/redux-framework/sections/metaboxes/header.php:131
+#: plugins/redux-framework/sections/metaboxes/header.php:144
+#: plugins/redux-framework/sections/metaboxes/header.php:166
+#: plugins/redux-framework/sections/metaboxes/header.php:179
+#: plugins/redux-framework/sections/metaboxes/header.php:192
+#: plugins/redux-framework/sections/metaboxes/header.php:205
+#: plugins/redux-framework/sections/metaboxes/header.php:218
+#: plugins/redux-framework/sections/metaboxes/single_post.php:19
+#: plugins/redux-framework/sections/metaboxes/single_post.php:32
+#: plugins/redux-framework/sections/metaboxes/single_post.php:45
+#: plugins/redux-framework/sections/metaboxes/single_post.php:58
+#: plugins/redux-framework/sections/metaboxes/single_post.php:71
+#: plugins/redux-framework/sections/metaboxes/single_post.php:84
+#: plugins/redux-framework/sections/metaboxes/single_post.php:97
+#: plugins/redux-framework/sections/metaboxes/single_product.php:21
+#: plugins/redux-framework/sections/metaboxes/single_product.php:34
+#: plugins/redux-framework/sections/metaboxes/single_product.php:47
+#: plugins/redux-framework/sections/metaboxes/single_product.php:60
+#: plugins/redux-framework/sections/metaboxes/single_project.php:26
+#: plugins/redux-framework/sections/metaboxes/single_project.php:39
+#: plugins/redux-framework/sections/metaboxes/title_wrapper.php:12
+#: plugins/redux-framework/sections/metaboxes/title_wrapper.php:25
+#: plugins/redux-framework/sections/metaboxes/title_wrapper.php:37
+#: plugins/redux-framework/sections/metaboxes/title_wrapper.php:49
+#: plugins/redux-framework/sections/metaboxes/title_wrapper.php:61
+#: plugins/redux-framework/sections/metaboxes/title_wrapper.php:207
+#: plugins/redux-framework/sections/metaboxes/top_header.php:12
+#: plugins/redux-framework/sections/metaboxes/top_header.php:25
+#: plugins/redux-framework/sections/metaboxes/top_header.php:38
+#: plugins/redux-framework/sections/metaboxes/top_header.php:51
+#: plugins/redux-framework/sections/metaboxes/top_header.php:64
+#: plugins/redux-framework/sections/metaboxes/top_header.php:77
+#: plugins/redux-framework/sections/metaboxes/top_header.php:99
+#: plugins/redux-framework/sections/posts.php:196
+#: plugins/redux-framework/sections/products.php:125
+#: plugins/redux-framework/sections/products.php:151
+#: plugins/redux-framework/sections/products.php:188
+#: plugins/redux-framework/sections/products.php:200
+#: plugins/redux-framework/sections/single_post.php:116
+#: plugins/redux-framework/sections/single_post.php:153
+#: plugins/redux-framework/sections/single_post.php:166
+#: plugins/redux-framework/sections/single_post.php:178
+#: plugins/redux-framework/sections/single_product.php:157
+msgid "On"
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/bottom_footer.php:13
+#: plugins/redux-framework/sections/metaboxes/footer.php:13
+#: plugins/redux-framework/sections/metaboxes/footer.php:26
+#: plugins/redux-framework/sections/metaboxes/header.php:13
+#: plugins/redux-framework/sections/metaboxes/header.php:26
+#: plugins/redux-framework/sections/metaboxes/header.php:39
+#: plugins/redux-framework/sections/metaboxes/header.php:51
+#: plugins/redux-framework/sections/metaboxes/header.php:119
+#: plugins/redux-framework/sections/metaboxes/header.php:132
+#: plugins/redux-framework/sections/metaboxes/header.php:145
+#: plugins/redux-framework/sections/metaboxes/header.php:167
+#: plugins/redux-framework/sections/metaboxes/header.php:180
+#: plugins/redux-framework/sections/metaboxes/header.php:193
+#: plugins/redux-framework/sections/metaboxes/header.php:206
+#: plugins/redux-framework/sections/metaboxes/header.php:219
+#: plugins/redux-framework/sections/metaboxes/single_post.php:20
+#: plugins/redux-framework/sections/metaboxes/single_post.php:33
+#: plugins/redux-framework/sections/metaboxes/single_post.php:46
+#: plugins/redux-framework/sections/metaboxes/single_post.php:59
+#: plugins/redux-framework/sections/metaboxes/single_post.php:72
+#: plugins/redux-framework/sections/metaboxes/single_post.php:85
+#: plugins/redux-framework/sections/metaboxes/single_post.php:98
+#: plugins/redux-framework/sections/metaboxes/single_product.php:22
+#: plugins/redux-framework/sections/metaboxes/single_product.php:35
+#: plugins/redux-framework/sections/metaboxes/single_product.php:48
+#: plugins/redux-framework/sections/metaboxes/single_product.php:61
+#: plugins/redux-framework/sections/metaboxes/single_project.php:27
+#: plugins/redux-framework/sections/metaboxes/single_project.php:40
+#: plugins/redux-framework/sections/metaboxes/title_wrapper.php:13
+#: plugins/redux-framework/sections/metaboxes/title_wrapper.php:26
+#: plugins/redux-framework/sections/metaboxes/title_wrapper.php:38
+#: plugins/redux-framework/sections/metaboxes/title_wrapper.php:50
+#: plugins/redux-framework/sections/metaboxes/title_wrapper.php:62
+#: plugins/redux-framework/sections/metaboxes/title_wrapper.php:108
+#: plugins/redux-framework/sections/metaboxes/top_header.php:13
+#: plugins/redux-framework/sections/metaboxes/top_header.php:26
+#: plugins/redux-framework/sections/metaboxes/top_header.php:39
+#: plugins/redux-framework/sections/metaboxes/top_header.php:52
+#: plugins/redux-framework/sections/metaboxes/top_header.php:65
+#: plugins/redux-framework/sections/metaboxes/top_header.php:78
+#: plugins/redux-framework/sections/metaboxes/top_header.php:100
+#: plugins/redux-framework/sections/posts.php:197
+#: plugins/redux-framework/sections/products.php:126
+#: plugins/redux-framework/sections/products.php:152
+#: plugins/redux-framework/sections/products.php:189
+#: plugins/redux-framework/sections/products.php:201
+#: plugins/redux-framework/sections/products.php:212
+#: plugins/redux-framework/sections/search.php:106
+#: plugins/redux-framework/sections/single_post.php:117
+#: plugins/redux-framework/sections/single_post.php:154
+#: plugins/redux-framework/sections/single_post.php:167
+#: plugins/redux-framework/sections/single_post.php:179
+#: plugins/redux-framework/sections/single_post.php:197
+#: plugins/redux-framework/sections/single_product.php:158
+msgid "Default"
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/bottom_footer.php:14
+#: plugins/redux-framework/sections/metaboxes/footer.php:14
+#: plugins/redux-framework/sections/metaboxes/footer.php:27
+#: plugins/redux-framework/sections/metaboxes/header.php:14
+#: plugins/redux-framework/sections/metaboxes/header.php:27
+#: plugins/redux-framework/sections/metaboxes/header.php:40
+#: plugins/redux-framework/sections/metaboxes/header.php:52
+#: plugins/redux-framework/sections/metaboxes/header.php:120
+#: plugins/redux-framework/sections/metaboxes/header.php:133
+#: plugins/redux-framework/sections/metaboxes/header.php:146
+#: plugins/redux-framework/sections/metaboxes/header.php:168
+#: plugins/redux-framework/sections/metaboxes/header.php:181
+#: plugins/redux-framework/sections/metaboxes/header.php:194
+#: plugins/redux-framework/sections/metaboxes/header.php:207
+#: plugins/redux-framework/sections/metaboxes/header.php:220
+#: plugins/redux-framework/sections/metaboxes/single_post.php:21
+#: plugins/redux-framework/sections/metaboxes/single_post.php:34
+#: plugins/redux-framework/sections/metaboxes/single_post.php:47
+#: plugins/redux-framework/sections/metaboxes/single_post.php:60
+#: plugins/redux-framework/sections/metaboxes/single_post.php:73
+#: plugins/redux-framework/sections/metaboxes/single_post.php:86
+#: plugins/redux-framework/sections/metaboxes/single_post.php:99
+#: plugins/redux-framework/sections/metaboxes/single_product.php:23
+#: plugins/redux-framework/sections/metaboxes/single_product.php:36
+#: plugins/redux-framework/sections/metaboxes/single_product.php:49
+#: plugins/redux-framework/sections/metaboxes/single_product.php:62
+#: plugins/redux-framework/sections/metaboxes/single_project.php:28
+#: plugins/redux-framework/sections/metaboxes/single_project.php:41
+#: plugins/redux-framework/sections/metaboxes/title_wrapper.php:14
+#: plugins/redux-framework/sections/metaboxes/title_wrapper.php:27
+#: plugins/redux-framework/sections/metaboxes/title_wrapper.php:39
+#: plugins/redux-framework/sections/metaboxes/title_wrapper.php:51
+#: plugins/redux-framework/sections/metaboxes/title_wrapper.php:63
+#: plugins/redux-framework/sections/metaboxes/title_wrapper.php:208
+#: plugins/redux-framework/sections/metaboxes/top_header.php:14
+#: plugins/redux-framework/sections/metaboxes/top_header.php:27
+#: plugins/redux-framework/sections/metaboxes/top_header.php:40
+#: plugins/redux-framework/sections/metaboxes/top_header.php:53
+#: plugins/redux-framework/sections/metaboxes/top_header.php:66
+#: plugins/redux-framework/sections/metaboxes/top_header.php:79
+#: plugins/redux-framework/sections/metaboxes/top_header.php:101
+#: plugins/redux-framework/sections/posts.php:198
+#: plugins/redux-framework/sections/products.php:127
+#: plugins/redux-framework/sections/products.php:153
+#: plugins/redux-framework/sections/products.php:190
+#: plugins/redux-framework/sections/products.php:202
+#: plugins/redux-framework/sections/single_post.php:118
+#: plugins/redux-framework/sections/single_post.php:155
+#: plugins/redux-framework/sections/single_post.php:168
+#: plugins/redux-framework/sections/single_post.php:180
+#: plugins/redux-framework/sections/single_product.php:159
+msgid "Off"
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/content.php:4
+msgid "Change the content section configuration."
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/custom.php:10
+msgid "Insert your custom CSS code here. It will be displayed only in this page."
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/custom.php:19
+msgid "Insert your custom JS code here, e.g. Google Analytics code or whatever you want. It will be displayed only in this page."
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/custom.php:28
+msgid "Insert your custom tags to be displayed in the head, e.g. Google Fonts <link> tags and others."
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/footer.php:4
+msgid "Change the footer section configuration."
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/header.php:4
+msgid "Change the header section configuration."
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/header.php:163
+#: plugins/redux-framework/sections/metaboxes/top_header.php:22
+msgid "Login With Ajax"
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/header.php:189
+#: plugins/redux-framework/sections/metaboxes/top_header.php:48
+msgid "Woo minicart"
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/header.php:202
+#: plugins/redux-framework/sections/metaboxes/top_header.php:61
+#: plugins/redux-framework/sections/search.php:4 searchform.php:13
+#: searchform.php:18 searchform.php:19
+msgid "Search"
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/layout.php:4
+msgid "Change the main theme's layout and configure it."
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/menus.php:3
+msgid "Menus"
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/menus.php:4
+msgid "Replace the menus to be displayed in the avaliable areas."
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/menus.php:10
+msgid "Select a menu to overwrite the top header menu location."
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/menus.php:19
+msgid "Select a menu to overwrite the header menu location."
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/menus.php:28
+msgid "Select a menu to overwrite the additional header menu location."
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/menus.php:37
+msgid "Select a menu to overwrite the popup menu location."
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/menus.php:46
+msgid "Select a menu to overwrite the bottom footer menu location."
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/single_post.php:3
+msgid "Posts"
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/single_post.php:4
+msgid "Change posts templates and configurations."
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/single_post.php:9
+msgid "Double width on posts list"
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/single_post.php:16
+#: plugins/redux-framework/sections/single_post.php:49
+msgid "Featured image"
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/single_post.php:17
+#: plugins/redux-framework/sections/single_post.php:50
+msgid "If on, featured image will be displayed at single post before content."
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/single_post.php:29
+#: plugins/redux-framework/sections/single_post.php:57
+msgid "Categories"
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/single_post.php:30
+#: plugins/redux-framework/sections/single_post.php:58
+msgid "If on, categories will be displayed."
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/single_post.php:42
+#: plugins/redux-framework/sections/single_post.php:65
+msgid "Author"
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/single_post.php:43
+msgid "If on, the author will be displayed in title wrapper."
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/single_post.php:55
+#: plugins/redux-framework/sections/single_post.php:73
+msgid "Social share"
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/single_post.php:56
+msgid "If on, social share icons will be displayed in title wrapper."
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/single_post.php:68
+#: plugins/redux-framework/sections/single_post.php:81
+msgid "Tags after content"
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/single_post.php:69
+#: plugins/redux-framework/sections/single_post.php:82
+msgid "If on, the tags will be displayed after post content."
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/single_post.php:81
+#: plugins/redux-framework/sections/single_post.php:89
+msgid "Post navigation"
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/single_post.php:82
+#: plugins/redux-framework/sections/metaboxes/single_project.php:24
+#: plugins/redux-framework/sections/single_post.php:90
+#: plugins/redux-framework/sections/single_project.php:63
+msgid "If on, navigation will be displayed below content."
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/single_post.php:94
+#: plugins/redux-framework/sections/single_post.php:97
+msgid "Fixed post navigation"
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/single_post.php:95
+#: plugins/redux-framework/sections/metaboxes/single_project.php:37
+#: plugins/redux-framework/sections/single_post.php:98
+#: plugins/redux-framework/sections/single_project.php:71
+msgid "If on, navigation will be fixed in the middle of browser window."
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/single_product.php:3
+#: plugins/redux-framework/sections/single_product.php:4
+msgid "Single product"
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/single_product.php:4
+#: plugins/redux-framework/sections/single_product.php:5
+msgid "Change single product templates and configurations."
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/single_product.php:9
+#: plugins/redux-framework/sections/single_product.php:63
+msgid "Expanded layout background color"
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/single_product.php:10
+#: plugins/redux-framework/sections/single_product.php:64
+msgid "Pick an background color that will be used under product images and summary."
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/single_product.php:18
+msgid "Enable catalog mode?"
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/single_product.php:19
+#: plugins/redux-framework/sections/products.php:83
+msgid "If on, Add to Cart buttons will not be displayed to users."
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/single_product.php:31
+msgid "Enable extra tab?"
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/single_product.php:32
+#: plugins/redux-framework/sections/single_product.php:82
+msgid "If on, an additional global tab will be displayed in products tabs."
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/single_product.php:44
+msgid "Enable share?"
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/single_product.php:45
+#: plugins/redux-framework/sections/single_product.php:110
+msgid "If on, share icons below product details will be displayed."
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/single_product.php:57
+msgid "Enable related products?"
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/single_product.php:58
+#: plugins/redux-framework/sections/single_product.php:118
+msgid "If on, related products will be displayed."
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/single_project.php:3
+#: plugins/redux-framework/sections/projects.php:4
+msgid "Projects"
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/single_project.php:4
+msgid "Change projects templates and configurations."
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/single_project.php:9
+msgid "Double width on projects list"
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/single_project.php:16
+msgid "Double height on projects list"
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/single_project.php:23
+#: plugins/redux-framework/sections/single_project.php:62
+msgid "Single project navigation"
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/single_project.php:36
+#: plugins/redux-framework/sections/single_project.php:70
+msgid "Fixed single project navigation"
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/title_wrapper.php:3
+#: plugins/redux-framework/sections/title_wrapper.php:4
+msgid "Title wrapper"
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/title_wrapper.php:4
+msgid "Change the title wrapper section configuration."
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/title_wrapper.php:22
+#: plugins/redux-framework/sections/title_wrapper.php:24
+msgid "Full viewport height"
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/title_wrapper.php:23
+#: plugins/redux-framework/sections/title_wrapper.php:25
+msgid "If on, title wrapper will have same height than viewport/window."
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/title_wrapper.php:35
+#: plugins/redux-framework/sections/title_wrapper.php:32
+msgid "Parallax"
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/title_wrapper.php:47
+#: plugins/redux-framework/sections/single_product.php:73
+#: plugins/redux-framework/sections/title_wrapper.php:47
+msgid "Breadcrumb"
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/title_wrapper.php:59
+#: plugins/redux-framework/sections/title_wrapper.php:39
+msgid "Description after title"
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/title_wrapper.php:71
+msgid "Subtitle"
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/title_wrapper.php:72
+msgid "Subtitle will be displayed above the title."
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/title_wrapper.php:79
+msgid "You can use a, strong, br, em and strong HTML tags. Use this field to display an optional text below main page title."
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/title_wrapper.php:97
+#: plugins/redux-framework/sections/search.php:95
+#: plugins/redux-framework/sections/title_wrapper.php:71
+msgid "Title wrapper padding"
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/title_wrapper.php:106
+#: plugins/redux-framework/sections/products.php:210
+#: plugins/redux-framework/sections/search.php:104
+#: plugins/redux-framework/sections/single_post.php:195
+#: plugins/redux-framework/sections/title_wrapper.php:80
+msgid "Text align"
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/title_wrapper.php:119
+#: plugins/redux-framework/sections/posts.php:206
+#: plugins/redux-framework/sections/products.php:223
+#: plugins/redux-framework/sections/single_post.php:208
+#: plugins/redux-framework/sections/title_wrapper.php:92
+msgid "Breadcrumb typography"
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/title_wrapper.php:132
+#: plugins/redux-framework/sections/title_wrapper.php:105
+msgid "Breadcrumb typography: custom font family"
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/title_wrapper.php:142
+#: plugins/redux-framework/sections/posts.php:220
+#: plugins/redux-framework/sections/products.php:237
+#: plugins/redux-framework/sections/single_post.php:222
+#: plugins/redux-framework/sections/title_wrapper.php:115
+msgid "Title typography"
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/title_wrapper.php:155
+#: plugins/redux-framework/sections/title_wrapper.php:128
+msgid "Title typography: custom font family"
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/title_wrapper.php:165
+#: plugins/redux-framework/sections/posts.php:234
+#: plugins/redux-framework/sections/products.php:251
+#: plugins/redux-framework/sections/single_post.php:236
+#: plugins/redux-framework/sections/title_wrapper.php:138
+msgid "Description typography"
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/title_wrapper.php:166
+#: plugins/redux-framework/sections/posts.php:235
+#: plugins/redux-framework/sections/products.php:252
+#: plugins/redux-framework/sections/single_post.php:237
+#: plugins/redux-framework/sections/title_wrapper.php:139
+msgid "Typography to optional description used in pages."
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/title_wrapper.php:179
+#: plugins/redux-framework/sections/title_wrapper.php:152
+msgid "Description typography: custom font family"
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/title_wrapper.php:189
+#: plugins/redux-framework/sections/posts.php:249
+#: plugins/redux-framework/sections/products.php:266
+#: plugins/redux-framework/sections/title_wrapper.php:162
+msgid "Title wrapper background"
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/title_wrapper.php:196
+msgid "Title wrapper background ovarlay"
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/title_wrapper.php:205
+msgid "Enable dotted overlay pattern?"
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/top_header.php:3
+#: plugins/redux-framework/sections/top_header.php:4
+msgid "Top header"
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/top_header.php:4
+msgid "Change the top header section configuration."
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/top_header.php:88
+msgid "Place any text or shortcode to be displayed in top header. Use [iv_separator] to add a separator in the text. Use [iv_icon icon=\"cogs\"] to display Font Awesome icons. Use [iv_flags] to add WPML flags."
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/top_header.php:109
+#: plugins/redux-framework/sections/top_header.php:166
+msgid "Top header border"
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/top_header.php:110
+#: plugins/redux-framework/sections/top_header.php:167
+msgid "Select a custom border to be applied in the top header."
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/top_header.php:121
+#: plugins/redux-framework/sections/top_header.php:186
+msgid "Top header background"
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/top_header.php:128
+#: plugins/redux-framework/sections/top_header.php:193
+msgid "Top header typography"
+msgstr ""
+
+#: plugins/redux-framework/sections/metaboxes/top_header.php:141
+#: plugins/redux-framework/sections/top_header.php:206
+msgid "Top header typography: custom font family"
+msgstr ""
+
+#: plugins/redux-framework/sections/posts.php:4
+msgid "Blog"
+msgstr ""
+
+#: plugins/redux-framework/sections/posts.php:5
+msgid "Change blog and archives templates."
+msgstr ""
+
+#: plugins/redux-framework/sections/posts.php:11
+msgid "Sidebars in blog"
+msgstr ""
+
+#: plugins/redux-framework/sections/posts.php:12
+msgid "Select the layout to be used in blog."
+msgstr ""
+
+#: plugins/redux-framework/sections/posts.php:62
+msgid "Posts view"
+msgstr ""
+
+#: plugins/redux-framework/sections/posts.php:63
+msgid "Select the view to be used by posts."
+msgstr ""
+
+#: plugins/redux-framework/sections/posts.php:77
+msgid "Thumbnails"
+msgstr ""
+
+#: plugins/redux-framework/sections/posts.php:78
+msgid "If on, thumbnails will be displayed in the blog."
+msgstr ""
+
+#: plugins/redux-framework/sections/posts.php:86
+msgid "Thumbnails size"
+msgstr ""
+
+#: plugins/redux-framework/sections/posts.php:96
+msgid "You can use a, strong, br, em and strong HTML tags. Use this field to display an optional text on title wrapper layout part."
+msgstr ""
+
+#: plugins/redux-framework/sections/posts.php:113
+msgid "Posts navigation"
+msgstr ""
+
+#: plugins/redux-framework/sections/posts.php:114
+msgid "If on, navigation will be displayed below posts."
+msgstr ""
+
+#: plugins/redux-framework/sections/posts.php:121
+msgid "Header settings at blog"
+msgstr ""
+
+#: plugins/redux-framework/sections/posts.php:145
+msgid "Content settings at blog"
+msgstr ""
+
+#: plugins/redux-framework/sections/posts.php:152
+msgid "Dynamic area before posts"
+msgstr ""
+
+#: plugins/redux-framework/sections/posts.php:153
+msgid "Select the page which content will be loaded and displayed before posts."
+msgstr ""
+
+#: plugins/redux-framework/sections/posts.php:161
+msgid "Dynamic area after posts"
+msgstr ""
+
+#: plugins/redux-framework/sections/posts.php:186
+msgid "Title wrapper settings at blog"
+msgstr ""
+
+#: plugins/redux-framework/sections/posts.php:250
+msgid "Overwrite title wrapper at blog and archives. Background image will be replaced on background pattern if you chose pattern in the next option."
+msgstr ""
+
+#: plugins/redux-framework/sections/posts.php:256
+#: plugins/redux-framework/sections/products.php:273
+#: plugins/redux-framework/sections/single_post.php:251
+msgid "Title wrapper background overlay"
+msgstr ""
+
+#: plugins/redux-framework/sections/products.php:4
+msgid "Shop"
+msgstr ""
+
+#: plugins/redux-framework/sections/products.php:5
+msgid "Change shop templates and configurations."
+msgstr ""
+
+#: plugins/redux-framework/sections/products.php:11
+msgid "Sidebars in shop"
+msgstr ""
+
+#: plugins/redux-framework/sections/products.php:12
+msgid "Select the layout to be used in shop."
+msgstr ""
+
+#: plugins/redux-framework/sections/products.php:62
+msgid "Products per page"
+msgstr ""
+
+#: plugins/redux-framework/sections/products.php:63
+msgid "Define the number of products displayed per page."
+msgstr ""
+
+#: plugins/redux-framework/sections/products.php:71
+#: plugins/redux-framework/sections/projects.php:81
+#: plugins/redux-framework/sections/search.php:75
+msgid "Columns"
+msgstr ""
+
+#: plugins/redux-framework/sections/products.php:72
+#: plugins/redux-framework/sections/search.php:76
+msgid "Define columns number at shop."
+msgstr ""
+
+#: plugins/redux-framework/sections/products.php:82
+msgid "Catalog mode"
+msgstr ""
+
+#: plugins/redux-framework/sections/products.php:90
+msgid "Catalog mode text"
+msgstr ""
+
+#: plugins/redux-framework/sections/products.php:91
+msgid "What will be displayed instead default Add to Cart button."
+msgstr ""
+
+#: plugins/redux-framework/sections/products.php:99
+msgid "Sorting options"
+msgstr ""
+
+#: plugins/redux-framework/sections/products.php:100
+msgid "If on, the sorting options will be displayed in the shop, this way users can order by price or others."
+msgstr ""
+
+#: plugins/redux-framework/sections/products.php:107
+msgid "Quick view feature"
+msgstr ""
+
+#: plugins/redux-framework/sections/products.php:108
+msgid "If on, the quick view feature will be avaliable in shop listing."
+msgstr ""
+
+#: plugins/redux-framework/sections/products.php:115
+msgid "Top header settings at shop"
+msgstr ""
+
+#: plugins/redux-framework/sections/products.php:141
+#: plugins/redux-framework/sections/single_product.php:147
+msgid "Header settings at shop"
+msgstr ""
+
+#: plugins/redux-framework/sections/products.php:178
+msgid "Title wrapper settings at shop"
+msgstr ""
+
+#: plugins/redux-framework/sections/products.php:198
+msgid "Enable description after title?"
+msgstr ""
+
+#: plugins/redux-framework/sections/products.php:267
+msgid "Overwrite title wrapper at shop. Background image will be replaced on background pattern if you chose pattern in the next option."
+msgstr ""
+
+#: plugins/redux-framework/sections/products.php:282
+msgid "Category image as title wrapper background"
+msgstr ""
+
+#: plugins/redux-framework/sections/projects.php:5
+msgid "Change projects templates."
+msgstr ""
+
+#: plugins/redux-framework/sections/projects.php:11
+msgid "Projects title"
+msgstr ""
+
+#: plugins/redux-framework/sections/projects.php:18
+msgid "Sidebars in projects"
+msgstr ""
+
+#: plugins/redux-framework/sections/projects.php:19
+msgid "Select the layout to be used in projects."
+msgstr ""
+
+#: plugins/redux-framework/sections/projects.php:69
+msgid "Categories filter align"
+msgstr ""
+
+#: plugins/redux-framework/sections/projects.php:82
+msgid "Define the columns numbers to be used in the projects."
+msgstr ""
+
+#: plugins/redux-framework/sections/projects.php:92
+msgid "Show projects closely?"
+msgstr ""
+
+#: plugins/redux-framework/sections/projects.php:93
+msgid "If on, projects will be shown without margins."
+msgstr ""
+
+#: plugins/redux-framework/sections/projects.php:109
+msgid "Font size"
+msgstr ""
+
+#: plugins/redux-framework/sections/projects.php:143
+msgid "Simple"
+msgstr ""
+
+#: plugins/redux-framework/sections/projects.php:144
+msgid "Simple (reverse)"
+msgstr ""
+
+#: plugins/redux-framework/sections/projects.php:145
+msgid "Blur"
+msgstr ""
+
+#: plugins/redux-framework/sections/projects.php:146
+msgid "Colorful"
+msgstr ""
+
+#: plugins/redux-framework/sections/projects.php:148
+msgid "Slice"
+msgstr ""
+
+#: plugins/redux-framework/sections/projects.php:149
+msgid "Grayscale"
+msgstr ""
+
+#: plugins/redux-framework/sections/projects.php:157
+msgid "Projects navigation"
+msgstr ""
+
+#: plugins/redux-framework/sections/projects.php:158
+msgid "If on, navigation will be displayed below projects."
+msgstr ""
+
+#: plugins/redux-framework/sections/search.php:5
+msgid "Change search results template and configurations."
+msgstr ""
+
+#: plugins/redux-framework/sections/search.php:11
+msgid "Search in post types"
+msgstr ""
+
+#: plugins/redux-framework/sections/search.php:14
+msgid "Only in posts"
+msgstr ""
+
+#: plugins/redux-framework/sections/search.php:15
+msgid "Only in products"
+msgstr ""
+
+#: plugins/redux-framework/sections/search.php:16
+msgid "Only in projects"
+msgstr ""
+
+#: plugins/redux-framework/sections/search.php:24
+msgid "Sidebars in search results"
+msgstr ""
+
+#: plugins/redux-framework/sections/search.php:25
+msgid "Select the layout to be used in search results."
+msgstr ""
+
+#: plugins/redux-framework/sections/search.php:86
+msgid "Title wrapper settings at search results"
+msgstr ""
+
+#: plugins/redux-framework/sections/single_post.php:4
+msgid "Single post"
+msgstr ""
+
+#: plugins/redux-framework/sections/single_post.php:5
+msgid "Change single post templates."
+msgstr ""
+
+#: plugins/redux-framework/sections/single_post.php:11
+msgid "Sidebars in single post"
+msgstr ""
+
+#: plugins/redux-framework/sections/single_post.php:12
+msgid "Select the layout to be used in single post."
+msgstr ""
+
+#: plugins/redux-framework/sections/single_post.php:66
+msgid "If on, the author will be displayed."
+msgstr ""
+
+#: plugins/redux-framework/sections/single_post.php:74
+msgid "If on, social share icons will be displayed."
+msgstr ""
+
+#: plugins/redux-framework/sections/single_post.php:106
+msgid "Header settings at single post"
+msgstr ""
+
+#: plugins/redux-framework/sections/single_post.php:143
+msgid "Title wrapper settings at single post"
+msgstr ""
+
+#: plugins/redux-framework/sections/single_post.php:150
+msgid "Title wrapper at single post"
+msgstr ""
+
+#: plugins/redux-framework/sections/single_post.php:151
+msgid "If on, title wrapper will be displayed at single post."
+msgstr ""
+
+#: plugins/redux-framework/sections/single_post.php:163
+msgid "Full viewport height at single post"
+msgstr ""
+
+#: plugins/redux-framework/sections/single_post.php:164
+msgid "If on, title wrapper will have same height than viewport/window at single post."
+msgstr ""
+
+#: plugins/redux-framework/sections/single_post.php:176
+msgid "Title wrapper parallax at single post"
+msgstr ""
+
+#: plugins/redux-framework/sections/single_post.php:188
+msgid "Featured image as title wrapper background"
+msgstr ""
+
+#: plugins/redux-framework/sections/single_product.php:11
+msgid "Sidebars in single product"
+msgstr ""
+
+#: plugins/redux-framework/sections/single_product.php:12
+msgid "Select the layout to be used in single products."
+msgstr ""
+
+#: plugins/redux-framework/sections/single_product.php:74
+msgid "If on, breadcrumbs will be displayed at product before title."
+msgstr ""
+
+#: plugins/redux-framework/sections/single_product.php:81
+msgid "Extra tab"
+msgstr ""
+
+#: plugins/redux-framework/sections/single_product.php:89
+msgid "Extra tab title"
+msgstr ""
+
+#: plugins/redux-framework/sections/single_product.php:90
+msgid "Define the extra tab title."
+msgstr ""
+
+#: plugins/redux-framework/sections/single_product.php:99
+msgid "Extra tab content"
+msgstr ""
+
+#: plugins/redux-framework/sections/single_product.php:100
+msgid "Define the extra tab content."
+msgstr ""
+
+#: plugins/redux-framework/sections/single_product.php:109
+msgid "Share"
+msgstr ""
+
+#: plugins/redux-framework/sections/single_product.php:117
+msgid "Related products"
+msgstr ""
+
+#: plugins/redux-framework/sections/single_product.php:125
+msgid "Related products per page"
+msgstr ""
+
+#: plugins/redux-framework/sections/single_product.php:126
+msgid "Define the number of related products displayed per page."
+msgstr ""
+
+#: plugins/redux-framework/sections/single_product.php:135
+msgid "Related products columns"
+msgstr ""
+
+#: plugins/redux-framework/sections/single_product.php:136
+msgid "Define columns number of related products."
+msgstr ""
+
+#: plugins/redux-framework/sections/single_project.php:4
+msgid "Single project"
+msgstr ""
+
+#: plugins/redux-framework/sections/single_project.php:5
+msgid "Change single project templates."
+msgstr ""
+
+#: plugins/redux-framework/sections/single_project.php:11
+msgid "Sidebars in single project"
+msgstr ""
+
+#: plugins/redux-framework/sections/single_project.php:12
+msgid "Select the layout to be used in  single project."
+msgstr ""
+
+#: plugins/redux-framework/sections/title_wrapper.php:10
+msgid "Title wrapper settings"
+msgstr ""
+
+#: plugins/redux-framework/sections/title_wrapper.php:55
+msgid "Title wrapper styles"
+msgstr ""
+
+#: plugins/redux-framework/sections/title_wrapper.php:61
+msgid "Title wrapper border"
+msgstr ""
+
+#: plugins/redux-framework/sections/top_header.php:10
+msgid "Top header settings"
+msgstr ""
+
+#: plugins/redux-framework/sections/top_header.php:25
+msgid "Define columns number of top header left area."
+msgstr ""
+
+#: plugins/redux-framework/sections/top_header.php:36
+msgid "Define columns number of top header right area."
+msgstr ""
+
+#: plugins/redux-framework/sections/top_header.php:55
+msgid "If on, menu will display at left area of top header."
+msgstr ""
+
+#: plugins/redux-framework/sections/top_header.php:104
+msgid "Place any text to be displayed in top header."
+msgstr ""
+
+#: plugins/redux-framework/sections/top_header.php:160
+msgid "Top header styles"
+msgstr ""
+
+#: plugins/redux-framework/sections/top_header.php:177
+msgid "Top header padding"
+msgstr ""
+
+#: plugins/tgm-plugin-activation/init.php:78
+msgid "Redux Framework"
+msgstr ""
+
+#: plugins/tgm-plugin-activation/init.php:87
+msgid "Air Addons"
+msgstr ""
+
+#: plugins/tgm-plugin-activation/init.php:97
+msgid "WPBakery Visual Composer"
+msgstr ""
+
+#: plugins/tgm-plugin-activation/init.php:105
+msgid "Ultimate Addons for Visual Composer"
+msgstr ""
+
+#: plugins/tgm-plugin-activation/init.php:113
+msgid "Revolution Slider"
+msgstr ""
+
+#: plugins/tgm-plugin-activation/init.php:121
+msgid "Login with AJAX"
+msgstr ""
+
+#: plugins/tgm-plugin-activation/init.php:128
+msgid "Ninja Forms"
+msgstr ""
+
+#: plugins/tgm-plugin-activation/init.php:135
+msgid "WooCommerce"
+msgstr ""
+
+#: plugins/tgm-plugin-activation/init.php:142
+msgid "YITH WooCommerce Wishlist"
+msgstr ""
+
+#: plugins/tgm-plugin-activation/init.php:149
+msgid "Yoast SEO"
+msgstr ""
+
+#: search.php:13
+msgid "If you are not happy with the results below please do another search."
+msgstr ""
+
+#: single-templates/part-bottom.php:18
+msgid "Tags:"
+msgstr ""
+
+#: single-templates/part-top.php:9
+msgid "Posted on"
+msgstr ""
+
+#: single-templates/part-top.php:13
+msgid "by"
+msgstr ""
+
+#: single-templates/part-top.php:17
+msgid "in"
+msgstr ""
+
+#: woocommerce/index.php:161
+msgid "Quick view"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:117
+msgid "Or"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Melinda"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://melinda.themes.tvda.eu"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Powerful flat theme with focus in agency and creative websites, but can be used as shop. Flexible style system with primary colors and font changes avaliable."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "TVDA Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://themes.tvda.eu"
+msgstr ""

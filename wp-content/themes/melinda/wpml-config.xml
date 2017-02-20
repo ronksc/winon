@@ -1,0 +1,20 @@
+<wpml-config>
+	<custom-types>
+		<custom-type translate="1">project</custom-type>
+	</custom-types>
+	<taxonomies>
+		<taxonomy translate="1">projects_category</taxonomy>
+	</taxonomies>
+	<admin-texts>
+		<key name="melinda_options">
+			<key name="top_header--text_content" />
+			<key name="header--text_content" />
+			<key name="bottom_footer--text_content" />
+			<key name="posts--desc" />
+			<key name="products--catalog_mode_text" />
+			<key name="single_product--extra_tab_title" />
+			<key name="single_product--extra_tab_conten" />
+			<key name="projects--title" />
+		</key>
+	</admin-texts>
+</wpml-config>
